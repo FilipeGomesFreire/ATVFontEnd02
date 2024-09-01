@@ -45,3 +45,20 @@ Paginas
  68:
  
         <i>"Futebol não se aprende na escola, por isso que o brasil é bom de bola!"</i>  <b>Gabriel, O Pensador.</b>.
+
+RODAR NO VERCEL
+
+    no codespace
+
+    pra rodar no vercel eu primeiro rodei 
+    npm run build
+
+    no vercel
+
+    na criação do projeto
+    em Root diretory cliquei e deixei em my-app
+    em     Build & Development Settings
+    build command deixei
+     npm run build
+    e output deixei 
+    build
